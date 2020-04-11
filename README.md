@@ -58,4 +58,4 @@ If the *url* does not respond with a JSON [`http://localhost:7000/?url=https://r
 ```
 
 ---
-<span style="text-align: center">:purple_heart:</span>
+:thumbsup:
