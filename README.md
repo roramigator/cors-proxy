@@ -43,7 +43,7 @@ fetch(`http://localhost:7000/?url=${myURL}`) // ...url=https://api.roramigator.d
 If the API's response is JSON it would parse and return it.
 
 ```json
-["US","RU","NP","IN","VE"... ...]
+["US","RU","NP","IN","VE","..."]
 ```
 
 If the *url* does not respond with a JSON [`http://localhost:7000/?url=https://roramigator.dev`], it will return an object indicating the status.
@@ -58,4 +58,4 @@ If the *url* does not respond with a JSON [`http://localhost:7000/?url=https://r
 ```
 
 ---
-<center>:purple_heart:</center>
+<span style="text-align: center">:purple_heart:</span>
