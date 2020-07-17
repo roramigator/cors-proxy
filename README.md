@@ -20,7 +20,7 @@ Install them with `npm`.
 
 ```sh
 cd cors-proxy
-npm Install
+npm install
 ```
 
 Once installed you can run the server like so:
